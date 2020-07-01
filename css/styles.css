@@ -824,10 +824,6 @@ input[type='checkbox'] {
 	margin-bottom: 1.375rem;
 }
 
-.basic-1 .testimonial-author {
-	color: #484a46;
-}
-
 /* Hover Animation */
 .basic-1 .image-container {
 	overflow: hidden;
@@ -1221,12 +1217,11 @@ input[type='checkbox'] {
 }
 
 .slider .card-image {
-	width: 6rem;
-	height: 6rem;
+	width: 10rem;
+	height: 10rem;
 	margin-right: auto;
 	margin-bottom: 0.25rem;
 	margin-left: auto;
-	border-radius: 50%;
 }
 
 .slider .card .card-body {
